@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gasolina Etanol</string>
+    <string name="gasolina">Preço da Gasolina:</string>
+    <string name="etanol">Preço do Etanol:</string>
+    <string name="btnCalcula">Calcular</string>
+    <string name="resultado">  </string>
+</resources>
